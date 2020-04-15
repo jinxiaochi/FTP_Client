@@ -2,8 +2,10 @@
 FTP客户端
 
 ### 效果如下 所示:
-![avatar](result/result.png)
 此图片位于result文件夹中,还有一个用exe4j转换形成的exe文件
+![avatar](result/result.png)
+
+
 
 #### 注意
 项目中,bin目录下的resource和lib目录下的图片一致,因为需要打包成jar最终生成exe文件,
